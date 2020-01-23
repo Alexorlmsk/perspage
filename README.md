@@ -1,2 +1,1 @@
-# perspage.github.io
-personal web page
+# persorlpage.github.io
