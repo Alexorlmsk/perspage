@@ -1,2 +1,2 @@
-# perspage
+# perspage.github.io
 personal web page
